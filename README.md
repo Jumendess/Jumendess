@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Atualmente estou trabalha em um startup como estagiário, tenho evoluído muito nesse minha nova jornada como desenvolvedor, gosto muito de tecnologia e de aprender como funciona todas as funções de um site ou aplicativo, sou bem tranquilo além de tecnologia adoro esportes físicos, gosto ler, sair a natureza é uma outra paixão que tenho.     
+Como estudante de programação, tenho ampla experiência em HTML, CSS e JavaScript, e já desenvolvi vários projetos utilizando essas tecnologias. Além disso, possuo conhecimentos em plataformas Oracle, que me permitem desenvolver soluções mais complexas e robustas.
+
+Recentemente, desenvolvi um chatbot usando o Oracle Database Appliance, demonstrando minha habilidade em criar soluções inovadoras e eficientes. Além disso, mesmo tendo um inglês básico, estou sempre procurando melhorar minhas habilidades de comunicação em inglês para atender a demanda do mercado global.
+
+Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades em programação e aprender novas tecnologias. Com minha experiência e habilidades, tenho certeza que posso contribuir de forma significativa em projetos de desenvolvimento de software e me tornar um profissional de destaque no mercado de tecnologia.      
 
 
 ## 🌐 Socials:
