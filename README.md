@@ -1,7 +1,43 @@
-### Hi there 👋
+ 👋
 
-# 💫 About Me:
-Como estudante de programação, tenho ampla experiência em HTML, CSS e JavaScript, e já desenvolvi vários projetos utilizando essas tecnologias. Além disso, possuo conhecimentos em plataformas Oracle, que me permitem desenvolver soluções mais complexas e robustas.<br><br>Recentemente, desenvolvi um chatbot usando o Oracle Digital assistant, demonstrando minha habilidade em criar soluções inovadoras e eficientes. Além disso, mesmo tendo um inglês básico, estou sempre procurando melhorar minhas habilidades de comunicação em inglês para atender a demanda do mercado global.<br><br>Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades em programação e aprender novas tecnologias. Com minha experiência e habilidades, tenho certeza que posso contribuir de forma significativa em projetos de desenvolvimento de software e me tornar um profissional de destaque no mercado de tecnologia. 
+# Olá, sou Julio Mendes
+
+## Sobre mim
+
+Sou um desenvolvedor web e mobile com 1 ano de experiência na área de desenvolvimento de software. Estou apaixonado por criar soluções elegantes e eficazes para problemas complexos. Sou dedicado, curioso e estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
+
+## Habilidades
+
+- **Linguagens de Programação**: JavaScript, Python
+- **Tecnologias Web**: HTML, CSS, Bootstrap
+- **Bibliotecas e Frameworks**: React.js, Node.js
+- **Chatbots**: Oracle Digital Assistant (ODA)
+- **Automatização**: Python para automação de tarefas diárias
+
+## Experiência
+
+- **Desenvolvedor Front-end** 
+  - Desenvolvimento de interfaces web responsivas utilizando HTML, CSS e Bootstrap.
+  - Colaboração em projetos com a equipe de design para garantir a melhor experiência do usuário.
+
+- **Desenvolvedor Full-stack** 
+  - Desenvolvimento de aplicativos web e móveis utilizando React.js e Node.js.
+  - Criação e implementação de chatbots utilizando a plataforma Oracle Digital Assistant.
+
+## Projetos Destacados
+
+- **Chatbot de Atendimento ao Cliente** - Desenvolvi um chatbot eficiente para atendimento ao cliente na plataforma Oracle Digital Assistant, que resultou em uma melhoria significativa na satisfação do cliente.
+
+- **Aplicativo de Gerenciamento de Tarefas** - Criei um aplicativo web de gerenciamento de tarefas usando React.js e Node.js para automatizar minhas próprias tarefas diárias.
+
+
+
+## Objetivos
+
+Estou constantemente buscando aprender e me atualizar com as melhores práticas e tecnologias no mundo do desenvolvimento web e mobile. Meu objetivo é continuar crescendo como desenvolvedor e contribuir para projetos interessantes e desafiadores.
+
+Se você estiver interessado em colaborar em projetos ou tiver alguma pergunta, sinta-se à vontade para entrar em contato comigo. Estou sempre aberto a novas oportunidades e colaborações.
+
 
 
 ## 🌐 Socials:
