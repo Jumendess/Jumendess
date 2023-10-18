@@ -51,6 +51,6 @@ Se você estiver interessado em colaborar em projetos ou tiver alguma pergunta, 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jumendess&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jumendess&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Jumendess&label=Profile%20Views&color=10&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
