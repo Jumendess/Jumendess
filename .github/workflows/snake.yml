@@ -1,4 +1,4 @@
-name: Gerar snake das contribuições
+name: Gerar snake e gráfico de atividade
 
 on:
   schedule:
@@ -15,6 +15,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Gerar gráfico de atividade
+        run: python3 .github/scripts/activity_graph.py dist/activity-graph.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+
       - name: Gerar SVGs
         uses: Platane/snk@v3
         with:

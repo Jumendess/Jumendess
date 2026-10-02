@@ -104,7 +104,7 @@ Atuo na interseção entre **negócio, tecnologia e operação**. Desenho fluxos
 ## `> git log --graph`
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jumendess&bg_color=020617&color=8BE9FD&line=00E5FF&point=E6FBFF&area=true&area_color=00E5FF&hide_border=true&custom_title=Atividade%20no%20GitHub" alt="Gráfico de atividade"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Jumendess/Jumendess/output/activity-graph.svg" alt="Gráfico de atividade"/>
 </p>
 
 <p align="center">
